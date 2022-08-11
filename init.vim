@@ -11,11 +11,11 @@ syntax on
 call plug#begin()
 
 " color-schemes
-Plug 'overcache/NeoSolarized'
+Plug 'dracula/vim', { 'as': 'dracula' }
 
 " rust 
 Plug 'rust-lang/rust.vim'
 
 call plug#end()
 
-colorscheme NeoSolarized
+colorscheme dracula
