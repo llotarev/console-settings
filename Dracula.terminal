@@ -168,7 +168,7 @@
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
 	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwVFlUkbnVsbNQNDg8QERIT
-	FFZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lViRjbGFzcyNALAAAAAAAABAQgAKAA18QJVVi
+	FFZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lViRjbGFzcyNAMAAAAAAAABAQgAKAA18QJVVi
 	dW50dU1vbm9EZXJpdmF0aXZlUG93ZXJsaW5lLVJlZ3VsYXLSFxgZGlokY2xhc3NuYW1l
 	WCRjbGFzc2VzVk5TRm9udKIZG1hOU09iamVjdAgRGiQpMjdJTFFTWF5nbnd+hY6QkpS8
 	wczV3N8AAAAAAAABAQAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA6A==
@@ -204,11 +204,11 @@
 	AAAZAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
 	<key>columnCount</key>
-	<integer>120</integer>
+	<integer>180</integer>
 	<key>name</key>
 	<string>Dracula</string>
 	<key>rowCount</key>
-	<integer>30</integer>
+	<integer>60</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
