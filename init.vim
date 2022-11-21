@@ -10,12 +10,9 @@ syntax on
 
 call plug#begin()
 
-" color-schemes
-Plug 'altercation/vim-colors-solarized'
 
 " rust 
 Plug 'rust-lang/rust.vim'
 
 call plug#end()
 
-colorscheme solarized
